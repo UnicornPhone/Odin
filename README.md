@@ -3,3 +3,4 @@ https://www.google.com/search?q=samsung+odin+linux https://forum.xda-developers.
 
 This is an Ad filled site, and probably Not trustworthy:
 https://odinflashtool.com/
+
